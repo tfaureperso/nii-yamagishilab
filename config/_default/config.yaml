@@ -5,6 +5,8 @@
 
 title: NII Yamagishi's Lab # Website name
 baseURL: 'https://zlin0.github.io/nii-yamagishilab' # Website URL
+relativeURLS: true
+canonifyurls: true
 
 ############################
 ## LANGUAGE
