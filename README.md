@@ -1,6 +1,10 @@
 # NII Yamagishi's Lab
 
+This is website for https://nii-yamagishilab.github.io/
 
-[] Add url
-[] Readme
-[] Meeting Page
+
+----
+TODO:
+- [ ] Add url
+- [ ] Readme
+- [ ] Meeting Page
