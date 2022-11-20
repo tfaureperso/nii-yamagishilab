@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<zlin0/nii-yamagishilab'
+    url: 'https://github.com/zlin0/nii-yamagishilab'
     content_dir: content
     branch: init
   avatar:
