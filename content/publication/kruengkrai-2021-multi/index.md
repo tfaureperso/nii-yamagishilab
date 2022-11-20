@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-20T02:57:18+09:00
+lastmod: 2022-11-20T21:52:58+09:00
 featured: false
 draft: false
 
@@ -29,9 +29,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:18.171569Z'
+publishDate: '2022-11-20T12:52:57.849099Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*arXiv preprint arXiv:2106.00950*'
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2106.00950
+  - name: Code
+    url: https://github.com/nii-yamagishilab/mla
 ---

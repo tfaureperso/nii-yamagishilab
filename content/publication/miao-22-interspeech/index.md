@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-11-20T02:57:10+09:00
+lastmod: 2022-11-20T21:52:50+09:00
 featured: false
 draft: false
 
@@ -32,10 +32,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:10.359456Z'
+publishDate: '2022-11-20T12:52:49.893894Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proc. Interspeech 2022*'
 doi: 10.21437/Interspeech.2022-11065
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2203.14834
+  - name: Samples
+    url: https://nii-yamagishilab.github.io/SAS-audio-samples/
 ---

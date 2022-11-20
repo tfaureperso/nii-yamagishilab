@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-20T02:57:22+09:00
+lastmod: 2022-11-20T21:53:01+09:00
 featured: false
 draft: false
 
@@ -30,10 +30,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:22.067323Z'
+publishDate: '2022-11-20T12:53:01.828429Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*2021 IEEE Spoken Language Technology Workshop (SLT)*'
 doi: 10.1109/SLT48900.2021.9383507
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2011.05038
+  - name: Samples
+    url: https://nii-yamagishilab.github.io/hyli666-demos/evr-slt2021
 ---

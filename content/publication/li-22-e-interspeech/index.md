@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-11-20T02:57:11+09:00
+lastmod: 2022-11-20T21:52:50+09:00
 featured: false
 draft: false
 
@@ -28,10 +28,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:11.073290Z'
+publishDate: '2022-11-20T12:52:50.606786Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proc. Interspeech 2022*'
 doi: 10.21437/Interspeech.2022-441
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2109.07931
+  - name: Database DDS database (DAPS portion)
+    url: https://doi.org/10.5281/zenodo.5464104
+  - name: DDS database (VCTK portion part 1)
+    url: https://doi.org/10.5281/zenodo.5499506
+  - name: DDS database (VCTK portion part 2)
+    url: https://doi.org/10.5281/zenodo.5501697
 ---

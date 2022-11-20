@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-11-20T02:57:13+09:00
+lastmod: 2022-11-20T21:52:52+09:00
 featured: false
 draft: false
 
@@ -37,9 +37,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:13.192028Z'
+publishDate: '2022-11-20T12:52:52.781113Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Computer Speech & Language*'
+links:
+  - name: Paper
+    url: https://doi.org/10.1016/j.csl.2022.101362
+  - name: Preprint
+    url: https://arxiv.org/abs/2109.00648
+  - name: challenge website
+    url: https://www.voiceprivacychallenge.org/
 ---

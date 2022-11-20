@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-20T02:57:22+09:00
+lastmod: 2022-11-20T21:53:02+09:00
 featured: false
 draft: false
 
@@ -32,10 +32,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:22.420112Z'
+publishDate: '2022-11-20T12:53:02.189280Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*2021 IEEE Spoken Language Technology Workshop (SLT)*'
 doi: 10.1109/SLT48900.2021.9383611
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2011.03955
+  - name: Samples
+    url: http://home.ustc.edu.cn/~ay8067/DNR/demo.html
 ---

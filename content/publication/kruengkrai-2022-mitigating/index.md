@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-11-20T02:57:10+09:00
+lastmod: 2022-11-20T21:52:49+09:00
 featured: false
 draft: false
 
@@ -28,9 +28,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:10.003871Z'
+publishDate: '2022-11-20T12:52:49.537811Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 29th International Conference on Computational Linguistics*'
+links:
+  - name: PDF
+    url: https://aclanthology.org/2022.coling-1.403.pdf
+  - name: Codes
+    url: https://github.com/nii-yamagishilab/ewc
 ---

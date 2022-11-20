@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-20T02:57:16+09:00
+lastmod: 2022-11-20T21:52:56+09:00
 featured: false
 draft: false
 
@@ -31,10 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:16.382333Z'
+publishDate: '2022-11-20T12:52:56.035461Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proc. 2021 ISCA Symposium on Security and Privacy in Speech Communication*'
 doi: 10.21437/SPSC.2021-9
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2110.06760
 ---

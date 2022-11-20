@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-20T02:57:20+09:00
+lastmod: 2022-11-20T21:52:59+09:00
 featured: false
 draft: false
 
@@ -32,10 +32,17 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:19.942251Z'
+publishDate: '2022-11-20T12:52:59.705422Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proc. Interspeech 2021*'
 doi: 10.21437/Interspeech.2021-738
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2104.02518
+  - name: Samples
+    url: https://nii-yamagishilab.github.io/zlin-demo/IS2021/index.html
+  - name: Database
+    url: https://doi.org/10.5281/zenodo.4817532
 ---

@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-20T02:57:20+09:00
+lastmod: 2022-11-20T21:53:00+09:00
 featured: false
 draft: false
 
@@ -37,10 +37,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:20.655282Z'
+publishDate: '2022-11-20T12:53:00.422305Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Biometrics, Behavior, and Identity Science*'
 doi: 10.1109/TBIOM.2021.3059479
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2102.05889
 ---

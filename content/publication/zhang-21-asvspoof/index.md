@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-20T02:57:17+09:00
+lastmod: 2022-11-20T21:52:57+09:00
 featured: false
 draft: false
 
@@ -30,11 +30,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:17.464853Z'
+publishDate: '2022-11-20T12:52:57.133123Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proc. 2021 Edition of the Automatic Speaker Verification and Spoofing
   Countermeasures Challenge*'
 doi: 10.21437/ASVSPOOF.2021-2
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2107.14132
+  - name: Database
+    url: https://zenodo.org/record/5112031#.YQQA4S2l3iE
 ---

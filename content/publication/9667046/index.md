@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-20T02:57:16+09:00
+lastmod: 2022-11-20T21:52:55+09:00
 featured: false
 draft: false
 
@@ -32,11 +32,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:16.025853Z'
+publishDate: '2022-11-20T12:52:55.677145Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*2021 16th IEEE International Conference on Automatic Face and Gesture
   Recognition (FG 2021)*'
 doi: 10.1109/FG52635.2021.9667046
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2111.12888
 ---

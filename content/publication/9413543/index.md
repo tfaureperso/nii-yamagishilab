@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-20T02:57:21+09:00
+lastmod: 2022-11-20T21:53:01+09:00
 featured: false
 draft: false
 
@@ -31,11 +31,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:21.357535Z'
+publishDate: '2022-11-20T12:53:01.127144Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech
   and Signal Processing (ICASSP)*'
 doi: 10.1109/ICASSP39728.2021.9413543
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2010.10727
+  - name: Samples
+    url: https://rhoposit.github.io/icassp2021
 ---

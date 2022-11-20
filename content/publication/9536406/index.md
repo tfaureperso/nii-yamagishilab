@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-20T13:57:44+09:00
+lastmod: 2022-11-20T21:52:59+09:00
 featured: false
 draft: false
 
@@ -29,10 +29,17 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:57:44.062659Z'
+publishDate: '2022-11-20T12:52:59.344943Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE/ACM Transactions on Audio, Speech, and Language Processing*'
 doi: 10.1109/TASLP.2021.3111566
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2104.08499
+  - name: Samples
+    url: https://nii-yamagishilab.github.io/hyli666-demos/intelligibility/index.html
+  - name: Codes
+    url: https://github.com/nii-yamagishilab/NELE-GAN
 ---

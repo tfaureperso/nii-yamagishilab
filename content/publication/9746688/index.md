@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-11-20T02:57:15+09:00
+lastmod: 2022-11-20T21:52:54+09:00
 featured: false
 draft: false
 
@@ -32,11 +32,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:14.963810Z'
+publishDate: '2022-11-20T12:52:54.592096Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech
   and Signal Processing (ICASSP)*'
 doi: 10.1109/ICASSP43922.2022.9746688
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2104.01541v2
+  - name: Codes
+    url: https://github.com/nii-yamagishilab/Attention_Backend_for_ASV
 ---

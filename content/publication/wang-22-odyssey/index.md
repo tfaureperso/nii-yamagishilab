@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-11-20T02:57:12+09:00
+lastmod: 2022-11-20T21:52:52+09:00
 featured: false
 draft: false
 
@@ -28,10 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T17:57:12.489925Z'
+publishDate: '2022-11-20T12:52:52.053779Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proc. The Speaker and Language Recognition Workshop (Odyssey 2022)*'
 doi: 10.21437/Odyssey.2022-14
+links:
+  - name: Preprint
+    url: https://arxiv.org/abs/2111.07725
 ---
