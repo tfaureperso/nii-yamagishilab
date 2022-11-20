@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: NII Yamagishi's Lab # Website name
-baseURL: 'https://nii-yamagishilab.github.io/' # Website URL
+baseURL: 'https://zlin0.github.io/nii-yamagishilab' # Website URL
 
 ############################
 ## LANGUAGE
