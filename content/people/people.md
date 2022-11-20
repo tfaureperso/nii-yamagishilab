@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Meet Us
 subtitle:
 
 content:
@@ -18,6 +18,7 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
+    - Associate members
     - Grad Students
     - Administration
     - Visitors
