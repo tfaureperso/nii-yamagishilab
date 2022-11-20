@@ -5,6 +5,8 @@ This is website for https://nii-yamagishilab.github.io/
 
 ----
 TODO:
-- [ ] Add url
+- [*] Add url
 - [ ] Readme
+- [ ] Add 'Alumnus' to People
 - [ ] Meeting Page
+- [ ] Talk Page
