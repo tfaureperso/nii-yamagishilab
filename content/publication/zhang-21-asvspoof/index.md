@@ -41,5 +41,5 @@ links:
   - name: Preprint
     url: https://arxiv.org/abs/2107.14132
   - name: Database
-    url: https://zenodo.org/record/5112031#.YQQA4S2l3iE
+    url: https://zenodo.org/record/5112031
 ---
