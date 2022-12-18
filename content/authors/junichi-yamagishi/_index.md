@@ -2,7 +2,7 @@
 # Display name
 title: Junichi Yamagishi
 
-weight: 1
+weight: 2
 
 # Is this the primary user of the site?
 superuser: true
@@ -16,7 +16,7 @@ organizations:
   url: ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:jyamagishi@nii.ac.jp"
+#email: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -40,12 +40,9 @@ education:
 
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'jyamagishi@nii.ac.jp'
   - icon: google-scholar
     icon_pack: ai
-    link: 'https://scholar.google.co.jp/citations?user=nRrdjtwAAAAJ&hl=zh-CN&oi=ao'
+    link: 'https://scholar.google.com/citations?user=nRrdjtwAAAAJ&hl=en&oi=ao'
   - icon: external-link-alt
     link: https://researchmap.jp/read0205283
 ---

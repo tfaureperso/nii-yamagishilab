@@ -33,7 +33,16 @@ content:
   #   - 'Monday to Friday: 09:00 to 17:00'
   #   # - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
-  #contact_links:
+  contact_links:
+     - icon: github
+       icon_pack: fab
+       link: 'https://github.com/nii-yamagishilab'
+     - icon: twitter
+       icon_pack: fab
+       link: 'https://twitter.com/yamagishilab'
+     - icon: youtube
+       icon_pack: fab
+       link: 'https://www.youtube.com/@niiyamagishilab/featured' 
   #  - icon: comments
   #    icon_pack: fas
   #    name: Discuss on Forum

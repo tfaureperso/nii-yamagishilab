@@ -2,7 +2,7 @@
 # Display name
 title: Erica Cooper
 
-weight: 3
+weight: 4
 
 # Is this the primary user of the site?
 superuser: false
@@ -29,9 +29,6 @@ user_groups:
 social:
   - icon: external-link-alt
     ink: https://researchmap.jp/ecooper
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:ecooper@nii.ac.jp'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=_PCmoGcAAAAJ&hl=en

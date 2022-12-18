@@ -2,7 +2,7 @@
 # Display name
 title: Xin Wang
 
-weight: 2
+weight: 3
 
 # Is this the primary user of the site?
 superuser: false
@@ -44,9 +44,6 @@ social:
   - icon: house
     icon_pack: fas
     link: https://researchmap.jp/wangxin
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:xinwang@nii.ac.jp'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=uMZhUHcAAAAJ&hl=en

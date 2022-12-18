@@ -1,19 +1,18 @@
-
 ---
 # Display name
-title: Canasai Kruengkrai
+title: Yamagishi's Lab
 
-weight: 5
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Project Assistant Professor
+role: Lab
 
 # Organizations/Affiliations
 organizations:
-- name: National Institute of Informatics
+- name: National Institute of Informatics 
   url: ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -28,6 +27,13 @@ user_groups:
 - Researchers
 
 social:
-- icon: external-link-alt
-  link: https://researchmap.jp/canasai
+ - icon: github
+   icon_pack: fab
+   link: https://github.com/nii-yamagishilab
+ - icon: twitter
+   icon_pack: fab
+   link: https://twitter.com/yamagishilab
+ - icon: youtube
+   icon_pack: fab
+   link: https://www.youtube.com/@niiyamagishilab/featured 
 ---
