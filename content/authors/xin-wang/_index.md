@@ -39,10 +39,10 @@ education:
       year: 2012
 
 social:
-  - icon: external-link-alt
-    link: https://tonywangx.github.io/
   - icon: house
     icon_pack: fas
+    link: https://tonywangx.github.io/
+  - icon: external-link-alt
     link: https://researchmap.jp/wangxin
   - icon: google-scholar
     icon_pack: ai

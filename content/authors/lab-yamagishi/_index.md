@@ -16,7 +16,7 @@ organizations:
   url: ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ylab-pr@nii.ac.jp"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -36,4 +36,6 @@ social:
  - icon: youtube
    icon_pack: fab
    link: https://www.youtube.com/@niiyamagishilab/featured 
+ - icon: external-link-alt
+   link: https://www.researchgate.net/lab/Junichi-Yamagishi-Lab
 ---
