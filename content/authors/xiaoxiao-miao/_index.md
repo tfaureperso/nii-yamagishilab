@@ -28,5 +28,8 @@ user_groups:
 
 social:
 - icon: external-link-alt
+  link: https://researchmap.jp/xiaoxiaomiao 
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=d11IlCUAAAAJ&hl=en
 ---
