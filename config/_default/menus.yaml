@@ -20,6 +20,9 @@ main:
   - name: Publications
     url: publication
     weight: 40
+  - name: Talks
+    url: talks
+    weight: 50
   # - name: Meeting TODO
   #   url: meeting
   #   weight: 50
