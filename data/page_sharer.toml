@@ -37,7 +37,7 @@
   id = "researchmap"
   url = "link: https://www.researchgate.net/lab/Junichi-Yamagishi-Lab"
   title = "Researchmap"
-  icon_pack = "fab"
+  icon_pack = "fas"
   icon = "external-link-alt"
   enable = true
 
