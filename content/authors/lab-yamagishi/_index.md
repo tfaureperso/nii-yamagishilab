@@ -27,6 +27,9 @@ user_groups:
 - Researchers
 
 social:
+ - icon: envelope
+   icon_pack: fas
+   link: "mailto:ylab-pr@nii.ac.jp"
  - icon: github
    icon_pack: fab
    link: https://github.com/nii-yamagishilab
@@ -37,5 +40,6 @@ social:
    icon_pack: fab
    link: https://www.youtube.com/@niiyamagishilab/featured 
  - icon: external-link-alt
+   icon_pack: fas
    link: https://www.researchgate.net/lab/Junichi-Yamagishi-Lab
 ---
