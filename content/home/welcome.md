@@ -25,4 +25,4 @@ design:
 
 The NII speech group led by Yamagishi was formed in 2013. It has close relationships with industry. The speech group is also responsible for distributing various Japanese speech corpora to Japanese universities for improving the research infrastructures. The group works closely with NII's biometrics/security group led by Echizen on media cloning.
 
-The group also co-initiated Automatic Speaker Verification Spoofing and Countermeasures Challenges an Voice Conversion Challenges.
+The group also co-initiated Automatic Speaker Verification Spoofing and Countermeasures Challenges and Voice Conversion Challenges.

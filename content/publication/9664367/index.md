@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Anssi Kanervisto
-- Ville Hautam&#x00E4;ki
+- Ville Hautamäki
 - Tomi Kinnunen
 - Junichi Yamagishi
 tags: []
