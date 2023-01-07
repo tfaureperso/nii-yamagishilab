@@ -22,3 +22,4 @@ design:
   view: 4
   columns: '1'
 ---
+<a class="twitter-timeline" data-lang="en" data-width="1200" data-height="500" data-theme="light" href="https://twitter.com/yamagishilab?ref_src=twsrc%5Etfw">Tweets by yamagishilab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
