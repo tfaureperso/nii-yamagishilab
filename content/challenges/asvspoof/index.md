@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: external-link-alt
+  - icon: house
     icon_pack: fas
     name: Website
     url: 'https://www.asvspoof.org/'

@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: external-link-alt
+  - icon: house
     icon_pack: fas
     name: Website
     url: 'https://voicemos-challenge-2022.github.io/'

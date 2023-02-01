@@ -56,8 +56,8 @@ main:
   # - name: Courses
   #   parent: materials
   #   url: materials/courses/
-  - name: Opportunities
-    url: opportunities
+  - name: Recruitments
+    url: recruitments
     weight: 90
   - name: Contact
     url: contact
