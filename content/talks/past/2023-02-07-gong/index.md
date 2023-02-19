@@ -1,30 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "TBA"
+title: "Few-shot Cross-speaker Style Transfer in Expressive Speech Synthesis"
 event:
 event_url:
-location: NII 1810
+location: NII 1210
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: TBA
-abstract: TBA
+summary:
+abstract: 'I will give self-introduction and have a briefly introduction of some related research on speech synthesis in our Tianjin University laboratory at first. Next, I will talk about my Ph.d topic which is expressive speech synthesis and will mainly introduce some of my previous research. Then, I will simply introduce the topic "Cross-speaker Style Transfer " and talk about my recently work and the big challenge "Few-shot" that is what I want to solve Next. Finally, I will discuss another topic I will be involved in at NII, speech synthesis in low resource languages. In my opinion, low resources could also be considered as a kind of Few-shot problem, which is also exactly related to my current PhD research.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-03-01T11:00:00+09:00
-date_end: 2023-03-01T12:00:00+09:00
+date: 2023-02-07T17:00:00+09:00
+date_end: 2023-02-07T18:00:00+09:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-02-19T19:43:32+09:00
+publishDate: 2023-02-05T19:46:28+09:00
 
-authors: [Yi-Chen Chang]
-tags: []
+authors: [Cheng Gong]
+tags: [synthesis]
 
 # Is this a featured event? (true/false)
 featured: false

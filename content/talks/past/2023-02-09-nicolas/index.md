@@ -1,29 +1,29 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "TBA"
+title: "Enabling Human-AI Co-Creativity in Music Making"
 event:
 event_url:
-location: NII 1810
+location: NII 1512
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: TBA
-abstract: TBA
+summary:
+abstract: ' In my talk, I will share my research on enabling Human-AI co-creativity in music making. I will start by discussing my previous work on MIDI-to-audio synthesis using Control-Synthesis. Then, I will delve into my work on few-shot neural instrument cloning with multi-instrument models. I will also present my recent work on TimbreCLIP, a text/audio embedding I trained on instrument notes. Additionally, I will showcase some of my work on generating symbolic music. Finally, I will give a brief overview of the work I will be pursuing at NII.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-03-01T11:00:00+09:00
-date_end: 2023-03-01T12:00:00+09:00
+date: 2023-02-09T17:00:00+09:00
+date_end: 2023-02-09T18:00:00+09:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-02-19T19:43:32+09:00
+publishDate: 2023-02-05T19:46:42+09:00
 
-authors: [Yi-Chen Chang]
+authors: [Nicolas Jonason]
 tags: []
 
 # Is this a featured event? (true/false)
