@@ -2,6 +2,8 @@
 # Display name
 title: Nicolas Jonason
 
+authors: Nicolas Jonason
+
 weight: 120
 
 # Is this the primary user of the site?

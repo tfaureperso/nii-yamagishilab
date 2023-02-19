@@ -2,6 +2,8 @@
 # Display name
 title:  Li-Kuang Chen
 
+authors:  Li-Kuang Chen
+
 weight: 120
 
 # Is this the primary user of the site?

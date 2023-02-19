@@ -2,6 +2,8 @@
 # Display name
 title: Haoyu Li
 
+authors: Haoyu Li
+
 weight: 107
 
 # Is this the primary user of the site?

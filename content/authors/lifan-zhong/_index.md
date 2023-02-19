@@ -2,6 +2,8 @@
 # Display name
 title: Lifan Zhong
 
+authors: Lifan Zhong
+
 weight: 120
 
 # Is this the primary user of the site?

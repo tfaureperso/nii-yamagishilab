@@ -2,6 +2,8 @@
 # Display name
 title: Fernando Villavicencio
 
+authors: Fernando Villavicencio
+
 weight: 206
 
 # Is this the primary user of the site?

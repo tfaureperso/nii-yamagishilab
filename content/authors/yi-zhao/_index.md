@@ -2,6 +2,8 @@
 # Display name
 title: Yi Zhao
 
+authors: Yi Zhao
+
 weight: 200
 
 # Is this the primary user of the site?

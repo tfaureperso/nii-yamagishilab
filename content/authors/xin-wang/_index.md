@@ -2,6 +2,8 @@
 # Display name
 title: Xin Wang
 
+authors: Xin Wang
+
 weight: 3
 
 # Is this the primary user of the site?

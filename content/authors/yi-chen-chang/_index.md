@@ -2,6 +2,8 @@
 # Display name
 title: Yi-chen Chang
 
+authors: Yi-chen Chang
+
 weight: 120
 
 # Is this the primary user of the site?

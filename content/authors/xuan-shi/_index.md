@@ -2,6 +2,8 @@
 # Display name
 title: Xuan Shi
 
+authors: Xuan Shi
+
 weight: 110
 
 # Is this the primary user of the site?

@@ -2,6 +2,8 @@
 # Display name
 title: Jaime Lorenzo-Trueba
 
+authors: Jaime Lorenzo-Trueba
+
 weight: 205
 
 # Is this the primary user of the site?

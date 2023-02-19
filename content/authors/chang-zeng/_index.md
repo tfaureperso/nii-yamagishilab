@@ -2,6 +2,8 @@
 # Display name
 title: Chang Zeng
 
+authors: Chang Zeng
+
 weight: 108
 
 # Is this the primary user of the site?

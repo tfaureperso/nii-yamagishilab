@@ -2,6 +2,8 @@
 # Display name
 title: Cheng Gong
 
+authors: Cheng Gong
+
 weight: 120
 
 # Is this the primary user of the site?

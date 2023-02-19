@@ -2,6 +2,8 @@
 # Display name
 title: XiaoXiao Miao
 
+authors: XiaoXiao Miao
+
 weight: 101
 
 # Is this the primary user of the site?

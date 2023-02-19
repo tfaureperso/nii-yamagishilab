@@ -2,6 +2,8 @@
 # Display name
 title: Shinji Takaki
 
+authors: Shinji Takaki
+
 weight: 203
 
 # Is this the primary user of the site?

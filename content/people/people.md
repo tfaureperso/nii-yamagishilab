@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet Us 
+title: 
 subtitle: 
 
 content:
@@ -28,7 +28,7 @@ design:
   show_social: true
 ---
 
-{{% cta cta_link="../opportunities/" cta_text="Join Us" %}}
+<!-- {{% cta cta_link="../opportunities/" cta_text="Join Us" %}} -->
 
 
 <!-- ## Alumni Interns and Visitors

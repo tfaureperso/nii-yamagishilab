@@ -9,8 +9,17 @@ main:
   #   url: tour
   #   weight: 10
   - name: News
-    url: news
+    identifier: news
     weight: 20
+  - name: Latest
+    parent: news
+    url: news/latest/
+    weight: 10
+  - name: Old
+    parent: news
+    url: news/old/
+    weight: 20
+
   - name: Members
     url: people
     weight: 30

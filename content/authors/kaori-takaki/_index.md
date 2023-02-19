@@ -2,6 +2,8 @@
 # Display name
 title: Kaori Takaki
 
+authors: Kaori Takaki
+
 weight: 207
 
 # Is this the primary user of the site?

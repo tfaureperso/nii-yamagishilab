@@ -2,6 +2,8 @@
 # Display name
 title: Erica Cooper
 
+authors: Erica Cooper
+
 weight: 4
 
 # Is this the primary user of the site?

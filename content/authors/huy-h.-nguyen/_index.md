@@ -2,6 +2,8 @@
 # Display name
 title: Huy Hong Nguyen
 
+authors: Huy Hong Nguyen
+
 weight: 105
 
 # Is this the primary user of the site?

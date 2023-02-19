@@ -1,7 +1,8 @@
-
 ---
 # Display name
 title: Canasai Kruengkrai
+
+authors: Canasai Kruengkrai
 
 weight: 5
 

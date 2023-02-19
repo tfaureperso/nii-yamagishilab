@@ -2,6 +2,8 @@
 # Display name
 title: Shuhei Kato
 
+authors: Shuhei Kato
+
 weight: 201
 
 # Is this the primary user of the site?

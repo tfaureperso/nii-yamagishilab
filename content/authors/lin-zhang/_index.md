@@ -2,6 +2,9 @@
 # Display name
 title: Lin Zhang
 
+authors: 
+  - lin-zhang
+
 weight: 109
 
 # Is this the primary user of the site?

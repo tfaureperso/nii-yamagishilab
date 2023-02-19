@@ -2,6 +2,8 @@
 # Display name
 title: Fuming Fang
 
+authors: Fuming Fang
+
 weight: 202
 
 # Is this the primary user of the site?

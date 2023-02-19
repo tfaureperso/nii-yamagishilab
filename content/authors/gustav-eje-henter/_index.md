@@ -2,6 +2,8 @@
 # Display name
 title: Gustav Eje Henter
 
+authors: Gustav Eje Henter
+
 weight: 204
 
 # Is this the primary user of the site?

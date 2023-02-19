@@ -10,8 +10,8 @@ authors:
 - Junichi Yamagishi
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-11-20T21:52:48+09:00
+date: '2023-02-18'
+lastmod: 2023-02-18T21:52:48+09:00
 featured: false
 draft: false
 
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T12:52:48.455585Z'
+publishDate: '2023-02-18T12:52:48.455585Z'
 publication_types:
-- '3'
+- '1'
 abstract: ''
-publication: '*arXiv preprint arXiv:2203.11500*'
+publication: 'Accepted by ICASSP2023'
 links:
   - name: Preprint
     url: https://arxiv.org/abs/2203.11500

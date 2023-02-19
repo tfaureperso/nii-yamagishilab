@@ -2,6 +2,8 @@
 # Display name
 title: Isao Echizen
 
+authors: Isao Echizen
+
 weight: 1
 
 # Is this the primary user of the site?
