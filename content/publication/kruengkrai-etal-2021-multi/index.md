@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2021-08-01'
-lastmod: 2023-02-19T19:12:09+09:00
+lastmod: 2023-02-20T00:03:57+09:00
 featured: false
 draft: false
 
@@ -29,17 +29,18 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-19T10:12:09.015816Z'
+publishDate: '2023-02-19T15:04:02.026309Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Findings of the Association for Computational Linguistics: ACL-IJCNLP
   2021*'
-url_pdf: https://aclanthology.org/2021.findings-acl.217
 doi: 10.18653/v1/2021.findings-acl.217
 links:
-  - name: Preprint
-    url: https://arxiv.org/abs/2106.00950
-  - name: Code
-    url: https://github.com/nii-yamagishilab/mla
+- name: URL
+  url: https://aclanthology.org/2021.findings-acl.217
+- name: Preprint
+  url: https://arxiv.org/abs/2106.00950
+- name: Code
+  url: https://github.com/nii-yamagishilab/mla
 ---

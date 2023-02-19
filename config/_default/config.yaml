@@ -5,8 +5,6 @@
 
 title: NII Yamagishi's Lab # Website name
 baseURL: 'https://zlin0.github.io/nii-yamagishilab/' # Website URL
-relativeURLS: true
-canonifyurls: true
 
 ############################
 ## LANGUAGE
@@ -45,7 +43,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS,  JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
