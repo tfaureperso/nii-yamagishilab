@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2023-02-18'
-lastmod: 023-02-1821:52:47+09:00
+lastmod: 2023-02-1821:52:47+09:00
 featured: false
 draft: false
 
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '023-02-18T12:52:47.375417Z'
+publishDate: '2023-02-18T12:52:47.375417Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*arXiv preprint arXiv:2210.10570*'
+publication: '*Accepted by ICASSP 2023*'
 links:
   - name: Preprint
     url: https://arxiv.org/abs/2210.10570
