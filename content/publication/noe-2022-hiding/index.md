@@ -14,8 +14,8 @@ authors:
 - Driss Matrouf
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-12-08T14:43:53+09:00
+date: '2023-02-18'
+lastmod: 2023-02-18T14:43:53+09:00
 featured: false
 draft: false
 
@@ -35,9 +35,9 @@ image:
 projects: []
 publishDate: '2022-12-08T05:43:53.427050Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*arXiv preprint arXiv:2211.16065*'
+publication: '*Accepted by ICASSP2023*'
 links:
   - name: Preprint
     url: https://arxiv.org/abs/2211.16065

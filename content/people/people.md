@@ -22,6 +22,7 @@ content:
     - Administration
     - Interns
     - Alumni
+    - Alumni - Interns
 design:
   show_interests: false
   show_role: true

@@ -33,7 +33,7 @@ publishDate: '2023-02-18T12:52:48.455585Z'
 publication_types:
 - '1'
 abstract: ''
-publication: 'Accepted by ICASSP2023'
+publication: '*Accepted by ICASSP2023*'
 links:
   - name: Preprint
     url: https://arxiv.org/abs/2203.11500

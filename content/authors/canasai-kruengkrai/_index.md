@@ -31,4 +31,10 @@ user_groups:
 social:
 - icon: external-link-alt
   link: https://researchmap.jp/canasai
+- icon: github
+  icon_pack: fab
+  link: https://canasai.github.io
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=FQKzzxYAAAAJ&hl=en
 ---

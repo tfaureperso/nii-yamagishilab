@@ -13,8 +13,8 @@ authors:
 - Shrikanth Narayanan
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-12-08T14:43:44+09:00
+date: '2023-02-18'
+lastmod: 2023-02-18T14:43:44+09:00
 featured: false
 draft: false
 
@@ -32,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-08T05:43:43.870261Z'
+publishDate: '2023-02-18T05:43:43.870261Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*arXiv preprint arXiv:2211.13868*'
+publication: '*Accepted by ICASSP 2023*'
 links:
   - name: Preprint
     url: hhttps://arxiv.org/abs/2211.13868

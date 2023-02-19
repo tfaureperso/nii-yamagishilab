@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Past Talks
 
 # Listing view
 view: compact

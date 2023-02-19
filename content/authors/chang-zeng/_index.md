@@ -31,4 +31,7 @@ user_groups:
 social:
 - icon: external-link-alt
   link: https://researchmap.jp/zengchang
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.jp/citations?user=gfGyn49j-MkC&hl=en
 ---

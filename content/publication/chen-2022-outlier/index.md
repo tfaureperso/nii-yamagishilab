@@ -10,8 +10,8 @@ authors:
 - Junichi Yamagishi
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-11-20T21:52:48+09:00
+date: '2022-11-01'
+lastmod: 2023-02-19T19:06:33+09:00
 featured: false
 draft: false
 
@@ -29,11 +29,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T12:52:48.828241Z'
+publishDate: '2023-02-19T10:06:33.102730Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*arXiv preprint arXiv:2210.15183*'
+- '1'
+abstract: Methods addressing spurious correlations such as Just Train Twice (JTT,
+  Liu et al. 2021) involve reweighting a subset of the training set to maximize the
+  worst-group accuracy. However, the reweighted set of examples may potentially contain
+  unlearnable examples that hamper the model′s learning. We propose mitigating this
+  by detecting outliers to the training set and removing them before reweighting.
+  Our experiments show that our method achieves competitive or better accuracy compared
+  with JTT and can detect and remove annotation errors in the subset being reweighted
+  in JTT.
+publication: '*Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the
+  Association for Computational Linguistics and the 12th International Joint Conference
+  on Natural Language Processing: Student Research Workshop*'
+url_pdf: https://aclanthology.org/2022.aacl-srw.8
 links:
   - name: Preprint
     url: https://arxiv.org/abs/2210.15183

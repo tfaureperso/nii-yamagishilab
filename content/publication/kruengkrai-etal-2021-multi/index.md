@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A multi-level attention model for evidence-based fact checking
+title: A Multi-Level Attention Model for Evidence-Based Fact Checking
 subtitle: ''
 summary: ''
 authors:
@@ -10,8 +10,8 @@ authors:
 - Xin Wang
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-11-20T21:52:58+09:00
+date: '2021-08-01'
+lastmod: 2023-02-19T19:12:09+09:00
 featured: false
 draft: false
 
@@ -29,11 +29,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T12:52:57.849099Z'
+publishDate: '2023-02-19T10:12:09.015816Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*arXiv preprint arXiv:2106.00950*'
+publication: '*Findings of the Association for Computational Linguistics: ACL-IJCNLP
+  2021*'
+url_pdf: https://aclanthology.org/2021.findings-acl.217
+doi: 10.18653/v1/2021.findings-acl.217
 links:
   - name: Preprint
     url: https://arxiv.org/abs/2106.00950

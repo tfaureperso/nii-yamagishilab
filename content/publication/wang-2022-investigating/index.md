@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Investigating Active-learning-based Training Data Selection for Speech Spoofing
+title: Investigating Active-Learning-Based Training Data Selection for Speech Spoofing
   Countermeasure
 subtitle: ''
 summary: ''
 authors:
 - Xin Wang
-- Junich Yamagishi
+- Junichi Yamagishi
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-11-20T21:52:49+09:00
+date: '2023-01-01'
+lastmod: 2023-02-19T17:58:54+09:00
 featured: false
 draft: false
 
@@ -29,12 +29,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T12:52:49.179822Z'
+publishDate: '2023-02-19T10:06:09.768894Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*arXiv preprint arXiv:2203.14553*'
+publication: '*2022 IEEE Spoken Language Technology Workshop (SLT)*'
+doi: 10.1109/SLT54892.2023.10023350
+
 links:
-  - name: Preprint
-    url: https://arxiv.org/abs/2203.14553
+- name: Preprint
+  url: https://arxiv.org/abs/2203.14553
 ---

@@ -44,8 +44,18 @@ main:
     url: databases
     weight: 60 
   - name: Talks
-    url: talks
+    identifier: talks
     weight: 70
+  - name: Upcoming
+    parent: talks
+    url: talks/upcoming/
+    weight: 10
+  - name: Past
+    parent: talks
+    url: talks/past/
+    weight: 20
+
+
   - name: Grants
     url: grants
     weight: 80

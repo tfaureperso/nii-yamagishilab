@@ -32,4 +32,7 @@ user_groups:
 social:
 - icon: external-link-alt
   link: https://researchmap.jp/zlin
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.jp/citations?user=HYqBbj4AAAAJ&hl=en&oi=ao
 ---

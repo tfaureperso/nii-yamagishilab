@@ -10,8 +10,8 @@ authors:
 - Junichi Yamagishi
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-11-20T21:52:47+09:00
+date: '2023-02-18'
+lastmod: 023-02-1821:52:47+09:00
 featured: false
 draft: false
 
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T12:52:47.375417Z'
+publishDate: '023-02-18T12:52:47.375417Z'
 publication_types:
-- '3'
+- '1'
 abstract: ''
 publication: '*arXiv preprint arXiv:2210.10570*'
 links:

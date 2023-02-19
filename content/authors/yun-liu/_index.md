@@ -31,4 +31,7 @@ user_groups:
 social:
 - icon: external-link-alt
   link: https://researchmap.jp/yunliu?lang=en
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.sg/citations?user=5mbpi0kAAAAJ&hl=en
 ---
