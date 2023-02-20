@@ -39,8 +39,8 @@ social:
  - icon: youtube
    icon_pack: fab
    link: https://www.youtube.com/@niiyamagishilab/featured 
- - icon: file-powerpoint
-   icon_pack: fas
+ - icon: slideshare
+   icon_pack: fab
    link: https://www.slideshare.net/jyamagis
  - icon: external-link-alt
    icon_pack: fas
