@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-19T15:04:02.026309Z'
+publishDate: '2023-02-19T15:19:00.544360Z'
 publication_types:
 - '1'
 abstract: ''
@@ -39,8 +39,4 @@ doi: 10.18653/v1/2021.findings-acl.217
 links:
 - name: URL
   url: https://aclanthology.org/2021.findings-acl.217
-- name: Preprint
-  url: https://arxiv.org/abs/2106.00950
-- name: Code
-  url: https://github.com/nii-yamagishilab/mla
 ---
