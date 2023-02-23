@@ -23,9 +23,9 @@ main:
   - name: Members
     url: people
     weight: 30
-  - name: Events
-    url: event
-    weight: 30
+  #- name: Events
+  #  url: event
+  #  weight: 30
   # - name: Members
   #   identifier: people
   #   weight: 30  
