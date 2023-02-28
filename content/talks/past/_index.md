@@ -1,5 +1,6 @@
 ---
 title: Past Talks
+type: event
 
 # Listing view
 view: compact

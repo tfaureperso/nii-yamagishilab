@@ -1,5 +1,6 @@
 ---
 title: Upcoming talks
+type: event
 
 # Listing view
 view: compact

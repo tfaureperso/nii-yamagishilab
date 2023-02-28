@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "TBA"
+title: "Enable Fact Verification across Languages via Parallel Training with Regularizations"
 event:
 event_url:
 location: NII 1810
@@ -11,8 +11,9 @@ address:
   region:
   postcode:
   country:
-summary: TBA
-abstract: TBA
+summary: 
+abstract: "Fact verification is part of the fact checking task. In this study, we want to enable the fact verification task across language. We will introduce a new cross-lingual fact verification dataset XFEVER, which is constructed by extending the examples of the processed FEVER dataset to 6 languages, including isolated language such as Japanese. Moreover, we apply two translation method, auto-translation and human-translation, to observe that our models' performance on different resources.
+For evaluation, we will provide baselines in 2 scenarios: zero-shot transfer learning and translate-train learning. For the second scenario, we will introduce different consistency regularizations."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -66,3 +67,18 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+### Title
+ Enable Fact Verification across Languages via Parallel Training with Regularizations
+
+### Abstract
+Fact verification is part of the fact checking task. In this study, we want to enable the fact verification task across language. We will introduce a new cross-lingual fact verification dataset XFEVER, which is constructed by extending the examples of the processed FEVER dataset to 6 languages, including isolated language such as Japanese. Moreover, we apply two translation method, auto-translation and human-translation, to observe that our models' performance on different resources.
+For evaluation, we will provide baselines in 2 scenarios: zero-shot transfer learning and translate-train learning. For the second scenario, we will introduce different consistency regularizations.
+
+
+### Location: NII 1810
+### Time: 2023-03-01 11:00 ~ 12:00
+
+
+### Other information:
+Please email us to get the meeting link if you are intersted!
