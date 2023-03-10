@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2023-03-04T22:52:18+09:00
 
-authors: []
+authors: [Hemant Yadav]
 tags: []
 
 # Is this a featured event? (true/false)
@@ -74,7 +74,7 @@ projects: []
 ### Abstract
 Recent developments in pre-trained speech representation utilizing self-supervised learning (SSL) have yielded exceptional results on a variety of downstream tasks. One such technique, known as masked predictive coding (MPC), has been employed by some of the most high-performing models. In this study, we investigate the impact of MPC loss on the information learnt at various layers in the HuBERT model, using nine probing tasks. Our findings indicate that the amount of content information learned at various layers of the HuBERT model has a positive correlation to the MPC loss. Additionally, it is also observed that any speaker-related information learned at intermediate layers of the model, is an indirect consequence of the learning process, and cannot be controlled through the use of MPC loss. These findings may serve as inspiration for further research in the speech community, specifically in the development of new pre-training tasks or the exploration of new pre-training criterion's that directly preserves both speaker and content information at various layers of a learnt model.
 
-
+### Presenter: Hemant Yadav
 ### Location: NII 1512
 ### Time: 2023-03-13 16:30 ~ 17:00
 
