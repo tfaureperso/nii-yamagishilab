@@ -31,9 +31,7 @@ design:
 
 <!-- {{% cta cta_link="../opportunities/" cta_text="Join Us" %}} -->
 
-
-<!-- ## Alumni Interns and Visitors
-* 2022.06 - 2022.09, Paul-Gauthier Noé
-* Yang Ai
-* 
- -->
+## Alumni Interns and Visitors
+#* 2022.06 - 2022.09, Paul-Gauthier Noé ()
+#* Yang Ai
+#* Jeff-I Lai
